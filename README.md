@@ -1,6 +1,6 @@
-# AiStation
+# AiStation （码枢）
 
-**给所有 AI 编程 CLI 工具一个统一的家。**
+**把多款 AI 编程工具，汇聚到一个开发工作台。 给所有 AI 编程 CLI 工具一个统一的家。**
 
 一个桌面应用，把 Claude Code、Codex CLI、Gemini CLI、OpenCode 、Hermes 等命令行 AI 工具集中到一起：多标签终端、会话历史可回溯、Token 费用估算、代码片段随手复用——而且全部数据都留在你自己的电脑里。
 
